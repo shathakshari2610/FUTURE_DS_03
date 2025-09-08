@@ -87,6 +87,3 @@ A bar chart showing which events had the highest satisfaction ratings.
 
 ---
 
-## 🤝 Contact
-For queries: *contact@futureinterns.com*  
-Website: [futureinterns.com](https://futureinterns.com)
